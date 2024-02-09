@@ -1,4 +1,4 @@
-# DAY-2- explanation of manipulating tensors and tensor operations in PyTorch without code:
+# DAY-2- explanation of manipulating tensors and tensor operations in PyTorch :
 
 1. **Representation of Data:**
    
